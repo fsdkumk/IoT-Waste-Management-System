@@ -8,4 +8,5 @@ Here are some pictures that were taken during the event:
 
 ![p](https://github.com/fsdkumk/IoT-Waste-Management-System-using-Arduino/assets/141599942/0c8e1660-38a5-4b70-9244-83495397f2d5)
 
+![y](https://github.com/fsdkumk/IoT-Waste-Management-System-using-Arduino/assets/141599942/94bf1561-473d-4903-8aa7-605265915490)
 
